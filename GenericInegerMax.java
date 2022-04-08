@@ -15,6 +15,6 @@ public class GenericInegerMax {
 	  } 
 
 	  public static void main(String args[]) {
-	    System.out.printf("Maximum out of %d, %d and %d is %d\n\n", 11, 14, 9, maximum(9, 14, 11));
+	    System.out.printf("Maximum out of %d, %d and %d is %d\n\n", 11, 9, 14, maximum(9, 11, 14));
 }
 }
